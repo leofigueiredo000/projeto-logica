@@ -1,0 +1,8 @@
+{
+    // Desativa as sugestões automáticas (autocomplete) para este projeto
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    }
+}
